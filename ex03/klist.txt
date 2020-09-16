@@ -1,0 +1,5 @@
+Credentials cache: API:788DD6B1-3E44-4F41-94AE-DEBC23553586
+        Principal: fbarbra@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 14 18:59:47 2020  Sep 15 04:59:47 2020  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
